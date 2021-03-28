@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FEBEFBB6-D04B-40D1-8BDC-1A0BA92EC60D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MovieSystem</RootNamespace>
+    <AssemblyName>MovieSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Changepwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Changepwd.Designer.cs">
+      <DependentUpon>Changepwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concerning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concerning.Designer.cs">
+      <DependentUpon>Concerning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DefaultFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefaultFrm.Designer.cs">
+      <DependentUpon>DefaultFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fankui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fankui.Designer.cs">
+      <DependentUpon>Fankui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeRen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeRen.Designer.cs">
+      <DependentUpon>GeRen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Administrators.cs" />
+    <Compile Include="Model\MovieInfo.cs" />
+    <Compile Include="Model\MovieLined.cs" />
+    <Compile Include="Model\MoviePlayInfo.cs" />
+    <Compile Include="Model\MovieSell.cs" />
+    <Compile Include="Model\MovieTicket.cs" />
+    <Compile Include="Model\MovieType.cs" />
+    <Compile Include="Model\ScreeningRoom.cs" />
+    <Compile Include="moviePD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moviePD.Designer.cs">
+      <DependentUpon>moviePD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movieroom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movieroom.Designer.cs">
+      <DependentUpon>Movieroom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="movieTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movieTP.Designer.cs">
+      <DependentUpon>movieTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovieUserFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovieUserFrm.Designer.cs">
+      <DependentUpon>MovieUserFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Privacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Privacy.Designer.cs">
+      <DependentUpon>Privacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterFrm.Designer.cs">
+      <DependentUpon>RegisterFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQLCommon\DbHelper.cs" />
+    <Compile Include="SQLCommon\PubConstant.cs" />
+    <Compile Include="SQLCommon\SQLHelper.cs" />
+    <Compile Include="Suggest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suggest.Designer.cs">
+      <DependentUpon>Suggest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketFrm.Designer.cs">
+      <DependentUpon>TicketFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Changepwd.resx">
+      <DependentUpon>Changepwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concerning.resx">
+      <DependentUpon>Concerning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefaultFrm.resx">
+      <DependentUpon>DefaultFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fankui.resx">
+      <DependentUpon>Fankui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeRen.resx">
+      <DependentUpon>GeRen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="moviePD.resx">
+      <DependentUpon>moviePD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movieroom.resx">
+      <DependentUpon>Movieroom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movieTP.resx">
+      <DependentUpon>movieTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovieUserFrm.resx">
+      <DependentUpon>MovieUserFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Privacy.resx">
+      <DependentUpon>Privacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterFrm.resx">
+      <DependentUpon>RegisterFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suggest.resx">
+      <DependentUpon>Suggest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketFrm.resx">
+      <DependentUpon>TicketFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\出票.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\背景.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\背景2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

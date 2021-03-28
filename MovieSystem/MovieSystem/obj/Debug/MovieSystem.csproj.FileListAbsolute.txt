@@ -1,0 +1,322 @@
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\19215\Desktop\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+D:\c#实训\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+G:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+G:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+G:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+E:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+E:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+E:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+E:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+F:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+F:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+F:\电影售票系统\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+F:\电影售票系统\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\19215\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+G:\实训\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+G:\实训\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+G:\实训\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+G:\实训\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\Administrator\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+H:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+H:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+H:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+F:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+F:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+F:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+F:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\测试\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+G:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+G:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+G:\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+G:\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\ASUS\Desktop\实训\MovieSystem 最终\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\admin\Desktop\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\19215\Desktop\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\ASUS\Desktop\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+C:\Users\ASUS\Desktop\文件\实训\终极版本2\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe.config
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.exe
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.pdb
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.exe
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\bin\Debug\MovieSystem.pdb
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csprojResolveAssemblyReference.cache
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Changepwd.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Concerning.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.DefaultFrm.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Fankui.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.GeRen.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Help.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.LoginFrm.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.moviePD.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Movieroom.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.movieTP.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.MovieUserFrm.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Privacy.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Properties.Resources.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.RegisterFrm.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.Suggest.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.TicketFrm.resources
+H:\2019-1 WinForm窗体实训项目\终极版本\MovieSystem\MovieSystem\obj\Debug\MovieSystem.csproj.GenerateResource.Cache
